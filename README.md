@@ -1,5 +1,5 @@
 # IMDBScraper
-Simple console app that takes in a URL to a movie page on IMDB, scrapes the HTML on the page, and returns detailed information about the movie. Will eventually be implemented into a web application. Built with Node.js.
+Simple console app that takes in a URL to a movie page on IMDB, scrapes the HTML on the page, and returns detailed information about the movie. Built with Node.js.
 
 Start by running 'npm install' from your terminal to get the necessary packages.
 
